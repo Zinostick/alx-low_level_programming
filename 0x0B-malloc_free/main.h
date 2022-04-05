@@ -12,3 +12,4 @@ int _strlen(char *c);
 char **strtow(char *str);
 
 #endif /*MAIN_H*/
+
